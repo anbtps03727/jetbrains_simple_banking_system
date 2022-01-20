@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Banking_System1.Simple_Banking_System-task.main" target="11" />
+      <module name="Simple_Banking_System1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
